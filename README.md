@@ -33,4 +33,4 @@ GET /api/reservations/my → ดูรายการจองของตนเ
 
 POST /api/borrowings → ยืนยันการยืมอุปกรณ์
 
-PUT /api/borrowings/{id}/return → คืนอุปกรณ์<img width="1272" height="754" alt="image" src="https://github.com/user-attachments/assets/0957ef27-8e79-46c9-abc0-749fca95cde0" />
+PUT /api/borrowings/{id}/return → คืนอุปกรณ์
