@@ -68,3 +68,6 @@ Coverage threshold: **80%** ทุก metric
 | POST | `/api/borrowings` | Admin | ยืนยันการยืม |
 | PUT | `/api/borrowings/:id/return` | User | คืนอุปกรณ์ |
 | GET | `/api/reports/summary` | Admin | ดูสถิติ |
+
+Docker Image
+docker pull lllfieldlll8/it-borrowing-api
